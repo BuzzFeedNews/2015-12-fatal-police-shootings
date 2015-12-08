@@ -1,0 +1,4 @@
+	outcome	shot_police	other
+race			
+Black		10	24
+Other		25	101
